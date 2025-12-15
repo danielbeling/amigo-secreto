@@ -276,7 +276,7 @@ export default function AmigoSecreto() {
         <header className="as-header">
           <div className="as-badge">🎁</div>
           <div>
-            <h1 className="as-title">Amigo Secreto</h1>
+            <h1 className="as-title">Amigo Caneca</h1>
             <p className="as-subtitle">
               Escolha seu nome e clique em <b>Sortear</b>. O resultado fica salvo
               e não repete.
@@ -359,3 +359,4 @@ export default function AmigoSecreto() {
     </div>
   );
 }
+
